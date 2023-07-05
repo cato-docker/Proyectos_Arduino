@@ -6,5 +6,5 @@
 <li>Sensor de sonido </li>
 <li>led</li>
 <li>Cables dupont</li>
-<li>Resistencias de 220 ohm</li>
+<li>Resistencias de 220 ohms</li>
 </p>
