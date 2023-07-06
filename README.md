@@ -8,3 +8,5 @@
 <li>Cables dupont</li>
 <li>Resistencias de 220 ohms</li>
 </p>
+<h2>Esquema de conexión</h2> 
+<img src="https://i.postimg.cc/fTM1Txxt/Esquema-de-conexi-n.png">
