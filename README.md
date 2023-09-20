@@ -12,7 +12,7 @@
 <img src="https://i.postimg.cc/fTM1Txxt/Esquema-de-conexi-n.png">
 <button>https://youtube.com/shorts/Tp1ImdyAW5Q</button>
 <h2>Medidor de distancia electrónico</h2>
-<p>Materiales utilizados
+<p>Materiales utilizados:
 <li>Arduino UNO R3</li>
 <li>Protoboard</li>
 <li>Cables dupont</li>
