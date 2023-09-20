@@ -8,6 +8,16 @@
 <li>Cables dupont</li>
 <li>Resistencias de 220 ohms</li>
 </p>
-<h2>Esquema de conexión</h2> 
+<h3>Esquema de conexión</h3> 
 <img src="https://i.postimg.cc/fTM1Txxt/Esquema-de-conexi-n.png">
 <button>https://youtube.com/shorts/Tp1ImdyAW5Q</button>
+<h2>Medidor de distancia electronico</h2>
+<p>Materiales utilizados
+<li>Arduino UNO R3</li>
+<li>Protoboard</li>
+<li>Cables dupont</li>
+<li>Sensor Ultrasonico HC-SR04</li>
+<li>Pantalla LCD (16x2) con chip I2C</li>
+</p>
+<h3>Esquema de conexión</h3>
+<img src= "https://i.postimg.cc/YS4hgPwz/Esquema-conexion.png">
