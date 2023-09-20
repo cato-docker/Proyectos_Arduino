@@ -11,7 +11,7 @@
 <h3>Esquema de conexión</h3> 
 <img src="https://i.postimg.cc/fTM1Txxt/Esquema-de-conexi-n.png">
 <button>https://youtube.com/shorts/Tp1ImdyAW5Q</button>
-<h2>Medidor de distancia electronico</h2>
+<h2>Medidor de distancia electrónico</h2>
 <p>Materiales utilizados
 <li>Arduino UNO R3</li>
 <li>Protoboard</li>
